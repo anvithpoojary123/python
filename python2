@@ -1,0 +1,7 @@
+# program to demonstrate set
+set1=()
+set1=set(["dbms","python"])
+print (set1)
+set1.update(["hardware"])
+print(set1)
+set1.remove[hardware]
